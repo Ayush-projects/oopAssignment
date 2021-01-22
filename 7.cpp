@@ -1,3 +1,7 @@
+//Name - Ayush
+//Roll - 001911001081
+//Subject - OOP
+//Question - 7
 #include<iostream>
 using namespace std;
 int fact(const int n){

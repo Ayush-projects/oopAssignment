@@ -1,3 +1,7 @@
+//Name - Ayush
+//Roll - 001911001081
+//Subject - OOP
+//Question - 10
 // Pass by reference 
 
 #include<iostream>
